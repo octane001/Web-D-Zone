@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Track Them !",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "image.png"
+        
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

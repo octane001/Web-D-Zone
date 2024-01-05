@@ -1,0 +1,22 @@
+/* p{
+    color: red;
+} */
+
+div {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+}
+button {
+  position: relative;
+  top: 5px;
+}
+#sum {
+  height: 50px;
+  width: auto;
+}

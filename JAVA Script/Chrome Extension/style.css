@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 300px;
+}
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 2px solid #75e931;
+  border-radius: 5px;
+}
+button {
+  background-color: #75e931;
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #75e931;
+  font-weight: bold;
+  border-radius: 5px;
+}
+ul{
+     list-style: none;
+     padding-left: 0;
+
+}
+a{
+    color: #2e7902;
+    margin-left: 10px;
+}
+li{
+    margin-top: 5px;
+}
+#del{
+  background-color: white;
+  color: #276802;
+}

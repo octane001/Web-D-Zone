@@ -1,0 +1,51 @@
+.box{
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: auto;
+    margin: 15px;
+    position: relative;
+    left: 50px;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    height: 100;
+    position: fixed;
+    bottom: 0px;
+}
+header{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    
+}
+#content{
+    border: none;
+    height: 600px;
+    
+}
+#box1{
+    position: relative;
+    background-image: url("img1.jpg");
+    background-size: cover;
+}
+#box2{
+    background-image: url("img2.jpeg");
+    background-size: cover;
+}
+#box3{
+    background-image: url("img3.jpeg");
+    background-size: cover;
+}
+#box4{
+    background-color: yellow;
+}
+body{
+    background-image: url("img4.jpg");
+    background-size: auto;
+}
